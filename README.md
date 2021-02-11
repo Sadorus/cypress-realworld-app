@@ -1,3 +1,11 @@
+## Importan Info
+
+🔥 All Cypress tests were deleted. The purpose of this is to use the real-world-app to write own tests in Cypress.
+
+🛠 Write UI tests (in progress)
+🛠 Write Accessibility tests (cypress-axe)
+🛠 Write API tests
+
 <p align="center">
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo.svg" />
 </p>
